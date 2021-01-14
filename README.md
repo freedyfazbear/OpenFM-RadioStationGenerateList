@@ -1,3 +1,3 @@
 kolorek vs java
 
-Aby odpalić hakerski program musisz mieć https://jsoup.org/download
+JAK chcesz to uruchomić w intelij musisz pobrać https://jsoup.org/download
